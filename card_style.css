@@ -16,7 +16,6 @@ html, body {
   border: 10px solid $border-color;
   margin: 50px auto 0 auto;
   box-shadow: inset 10px 0px 15px 0px rgba(0,0,0,0.1);
-  background-color: rgb(230, 240, 230);
 }
 
 .card .text-container {
