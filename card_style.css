@@ -52,8 +52,7 @@ html, body {
   margin: -10px 0px 0px -10px;
   border: 10px solid $border-color;
   backface-visibility: hidden;
-  background-color: rgb(115, 163, 191);
-  /* background-image: url($cover-image); */
+  background-image: url();
   background-size: contain;
   transform-style: preserve-3d;
   transform-origin: 0% 50%;
