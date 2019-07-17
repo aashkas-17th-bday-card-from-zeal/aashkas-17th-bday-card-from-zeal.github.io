@@ -36,11 +36,9 @@ html, body {
 }
 
 .card p {
-  font-size: 1.1em;
-  line-height: 1.4;
+  font-size: 0.5em;
   font-family: 'Nobile';
   color: #331717;
-  font-style: italic;
   text-align: center;
   margin: 30px auto 0px auto;
 }
