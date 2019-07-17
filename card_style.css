@@ -52,7 +52,7 @@ html, body {
   margin: -10px 0px 0px -10px;
   border: 10px solid $border-color;
   backface-visibility: hidden;
-  background-image: url();
+  background-image: src("front.png");
   background-size: contain;
   transform-style: preserve-3d;
   transform-origin: 0% 50%;
@@ -62,7 +62,6 @@ html, body {
 
 .card:hover .front {
   transform: perspective(800px) rotateY(-170deg);
-  background-color: rgb(115-50, 163-50, 191-50);
 }
 
 .card:hover .back {
