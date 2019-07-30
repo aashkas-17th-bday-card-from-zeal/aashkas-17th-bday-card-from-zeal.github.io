@@ -64,7 +64,7 @@ html, body {
 .card:hover .back {
   transform: perspective(800px) rotateY(-170deg);
   box-shadow: 7px 0px 5px 0px rgba(0,0,0,0.3), inset 2px 0px 15px 0px rgba(0,0,0,0.1);
-  background-color: rgb(210, 220, 210);
+  background-color: white;
 }
 
 .card .back {
@@ -79,7 +79,7 @@ html, body {
   transform-origin: 0% 50%;
   transform: perspective(800px) rotateY(0deg);
   transition: all 0.8s ease-in-out;
-  background-color: rgb(230, 240, 230);
+  background-color: white;
   box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.1);
 }
 
